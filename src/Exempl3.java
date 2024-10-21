@@ -11,13 +11,13 @@ public class Exempl3 {
         PhoneBook pb = new PhoneBook();
         pb.vod("Kolya", 723456);
         pb.vod("Vasya", 223456);
-        pb.vod("Dasha", 923456);
+        pb.vod("Saha", 923456);
 
         //PhoneBook.viv();
 
 
-        pb.viv1("Dasha"); //вызов на экземпляре
-        pb.viv2("Dasha");
+        pb.viv1("Saha"); //вызов на экземпляре
+        pb.viv2("Saha");
         PhoneBook.viv();// вызов на классе
 
 
